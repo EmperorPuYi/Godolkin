@@ -4,7 +4,7 @@
 
 # Sobre o Bot
 
-O principal objetivo desse Bot é aplicar bordas personalizadas aos avatares dos membros do servidor [Universidade Godolkin](https://discord.com/invite/bTp9M5w9).
+O principal objetivo desse Bot é aplicar bordas personalizadas aos avatares dos membros do servidor da [Universidade Godolkin](https://discord.com/invite/bTp9M5w9).
 
 _Este bot é desenvolvido e mantido por usuários e não tem nenhuma conexão com a [Sociedade do Ferro](https://discord.gg/sociedadedoferro) ou o [Iron Hotel](https://ironhotel.org/). Todos os direitos autorais e a propriedade intelectual relacionados a este bot pertencem a seus desenvolvedores **@fabioyang** e **@desovsa**. Qualquer reprodução, distribuição ou modificação não autorizada deste bot ou de suas funcionalidades é estritamente proibida._
 ## Executando o Bot
